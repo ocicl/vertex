@@ -1,0 +1,10 @@
+* vertex
+
+A markup language with TeX syntax
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/CommonDoc/vertex.git   |
+| commit  | 5c13132  |
+| systems | vertex |
+|---------+-------------------------------------------|
+
